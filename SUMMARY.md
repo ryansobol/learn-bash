@@ -1,6 +1,6 @@
 # Summary
 
-* [Chapter 1]chapter1/README.md)
+* [Chapter 1](chapter1/README.md)
   * [What's my computer's Unix core?](chapter1/uname.md)
   * [The Unix Shell](chapter1/shell.md)
   * [How do I learn about a command?](chapter1/man.md)
