@@ -1,4 +1,4 @@
-## Running programs
+## Processes
 
 Unix is also a multi-process operating system. In other words, multiple programs can be running at the same time. To display real-time information about the processes on your computer, type
 

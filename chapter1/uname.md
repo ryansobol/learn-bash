@@ -1,4 +1,4 @@
-## My computer's Unix core
+## The Unix core
 
 To find out the name of your operating system's Unix core, launch a **Terminal** application and type
 

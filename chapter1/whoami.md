@@ -1,4 +1,4 @@
-## Who are you?
+## Users
 
 Unix is a multi-user operating system. To find out the name of your user account, type
 
