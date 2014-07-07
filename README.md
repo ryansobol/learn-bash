@@ -1,4 +1,4 @@
-learn-bash
+Learn Bash
 ==========
 
 The Bash Workshop Guide
