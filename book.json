@@ -1,0 +1,10 @@
+{
+  "name": "Learn Bash",
+  "version": "0.0.0",
+  "description": "The Bash Workshop Guide",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryansobol/learn-bash.git"
+  },
+  "author": "Ryan Sobol <contact@ryansobol.com>",
+}
