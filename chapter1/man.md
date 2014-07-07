@@ -1,4 +1,4 @@
-## Learning about command
+## Learning about commands
 
 Manual pages describe how a command works and lists the options it can take. To learn more about the `uname` command, type
 
